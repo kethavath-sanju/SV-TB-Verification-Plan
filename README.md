@@ -7,4 +7,4 @@ This repository contains a SystemVerilog-based testbench developed for functiona
 5.Reference model.  
 6.Environment.
 7.Interface.
-![Testbench Architecture](testbench_architecture.png)
+![Testbench Architecture](Testbench_architecture.png)
